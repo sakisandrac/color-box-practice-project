@@ -1,0 +1,24 @@
+#changeMe{
+    width: 100px;
+    height: 100px;
+    background: lightpink;
+    margin: auto;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    background: lightpink;
+
+}
+
+button:hover {
+    background-color: rgb(214, 185, 239);
+    
+}
+
+button {
+    border-radius: 12px;
+}
